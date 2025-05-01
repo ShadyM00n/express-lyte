@@ -1,0 +1,20 @@
+{
+  "name": "express-lyte",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "shadymoon",
+  "license": "MIT",
+  "description": "A lyte version of express compatible with express extensions.",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "express-rate-limiter": "^1.3.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
